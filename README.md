@@ -1,1 +1,1 @@
-# Appium_Unittest_Study
+#这是基于appium下的unittest框架，个人感觉还是不错的，不过对比pytest，个人还是觉得pytest好用些，见仁见智吧
